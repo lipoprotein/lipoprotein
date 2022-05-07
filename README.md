@@ -1,6 +1,6 @@
 # About me
 
-I’m @lipoprotein, a computer science undergrad with focus on Scientific Computing at the University of Vienna.
+I’m @lipoprotein, a simple software developer employed at a software company in the heart of Linz in Austria. Formerly I was studying Computer Science with emphasis on Scientific Computing at the University of Vienna.
 
 ## Interests
 
